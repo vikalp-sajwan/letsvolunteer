@@ -31,3 +31,18 @@
 •	This type of website cannot be fully automatic. It needs manual administration to verify the accounts of NGOs and organizations.
 •	Further, it also needs some type of mechanism (human + s/w) to verify the volunteering activities of users i.e. whether they actually showed up in the event. I have some solutions in mind but for now this website will not have any kind of such mechanism.
 
+
+![Question](SCREENSHOTS/1.PNG?raw=true "Problem")
+
+![Question](SCREENSHOTS/2.PNG?raw=true "Problem")
+
+![Question](SCREENSHOTS/3.PNG?raw=true "Problem")
+
+![Question](SCREENSHOTS/4.PNG?raw=true "Problem")
+
+![Question](SCREENSHOTS/5.PNG?raw=true "Problem")
+
+![Question](SCREENSHOTS/6.PNG?raw=true "Problem")
+
+
+
