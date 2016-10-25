@@ -9,6 +9,7 @@
 *	PHP - for backend of the website.
 *	MySQL - for the database of the website.
 *	JavaScript - for any kind of interactivity if needed.
+
 ####Features:
 *	The user will be able to sign up and create account.
 *	Any user can create Events with all the details of event.
@@ -27,6 +28,7 @@
 ####Advantages:
 *	This type of website will help to bridge the gap between the organization and NGOs and willing volunteers.
 *	And a verifiable volunteering activities will encourage more people to volunteer, do the good work as well as make their resume shine.
+
 ####Disadvantages: 
 *	This type of website cannot be fully automatic. It needs manual administration to verify the accounts of NGOs and organizations.
 *	Further, it also needs some type of mechanism (human + s/w) to verify the volunteering activities of users i.e. whether they actually showed up in the event. I have some solutions in mind but for now this website will not have any kind of such mechanism.
